@@ -22,9 +22,3 @@ C++ 程序的编译过程
 - Static Library: 静态库的编译与链接
 - Shared Library: 共享库/动态库的编译与链接
 - Errors: 常见的一些错误
-
-&emsp;
-<div align=center>
-    <img src="./imgs/QRcode.png" width=150>
-    <h4>If u wanna buy me a cup of coffee.</h>
-</div>
